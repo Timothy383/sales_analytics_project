@@ -21,8 +21,8 @@ This project analyzes telecom sales performance using simulated telecom Malawi d
   - Commission rates vary by channel, highlighting opportunities for optimization
 
 # Dashboard Preview
-
-Power BI dashboard: https://github.com/Timothy383/sales_analytics_project/blob/main/visuals/Power%20BI%20dashboard.png
+  1 Excel dashboard: https://github.com/Timothy383/sales_analytics_project/blob/main/visuals/Excel%20dashboard.png
+  2. Power BI dashboard: https://github.com/Timothy383/sales_analytics_project/blob/main/visuals/Power%20BI%20dashboard.png
 
 # Files
   - Raw dataset
