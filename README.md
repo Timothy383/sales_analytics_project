@@ -1,2 +1,33 @@
-# sales_analytics_project
-Sales performance analysis and dashboard for telecom business using Python, Excel, and Power BI
+# Telecom Sales Analytics Project
+
+## Project Overview
+
+This project analyzes telecom sales performance using simulated telecom Malawi data. The goal is to generate insights that support revenue growth, channel optimization, and business decision-making.
+
+# Objectives
+  - Analyze sales performance across regions, channels, and products
+  - Track key KPIs such as revenue, units sold, and commission efficiency
+  - Build dashboards for decision support
+    
+# Tools Used
+  - Python (Pandas)
+  - Excel (Pivot Tables & Charts)
+  - Power BI (Interactive Dashboard)
+    
+# Key Insights
+  - Southern region generates the highest revenue, indicating stronger market activity
+  - Distributors outperform other channels, suggesting higher sales efficiency
+  - Data bundles contribute the largest share of revenue
+  - Commission rates vary by channel, highlighting opportunities for optimization
+
+# Dashboard Preview
+
+(Add your screenshot here)
+
+# Files
+  - Raw dataset
+  - Clean dataset
+  - Python data processing script
+  - Excel pivot tables file
+  - Excel dashboard
+  - Power BI dashboard
