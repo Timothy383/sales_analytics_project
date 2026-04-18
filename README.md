@@ -22,7 +22,7 @@ This project analyzes telecom sales performance using simulated telecom Malawi d
 
 # Dashboard Preview
 
-(Add your screenshot here)
+Power BI dashboard: https://github.com/Timothy383/sales_analytics_project/blob/main/visuals/Power%20BI%20dashboard.png
 
 # Files
   - Raw dataset
