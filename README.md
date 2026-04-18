@@ -1,6 +1,6 @@
 # Telecom Sales Analytics Project
 
-## Project Overview
+# Project Overview
 
 This project analyzes telecom sales performance using simulated telecom Malawi data. The goal is to generate insights that support revenue growth, channel optimization, and business decision-making.
 
